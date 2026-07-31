@@ -3,7 +3,6 @@
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.jpg"/>
- <o:File HRef="image001.jpg"/>
  <o:File HRef="image002.gif"/>
  <o:File HRef="image003.gif"/>
  <o:File HRef="image004.gif"/>
@@ -14,7 +13,7 @@
  <o:File HRef="image009.gif"/>
  <o:File HRef="image010.gif"/>
  <o:File HRef="image011.gif"/>
- <o:File HRef="image014.wmz"/>
- <o:File HRef="image015.gif"/>
+ <o:File HRef="image012.wmz"/>
+ <o:File HRef="image014.gif"/>
  <o:File HRef="filelist.xml"/>
 </xml>
